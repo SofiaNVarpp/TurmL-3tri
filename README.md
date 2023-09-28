@@ -1,6 +1,6 @@
-##**TurmaL-3tri**💻
+**TurmaL-3tri**💻
 
-###**Pensamento Computacional - 1º ano**
+**Pensamento Computacional - 1º ano**
 
 -Sou formada em Processos Gerenciais, Licenciatura em Computação
 
