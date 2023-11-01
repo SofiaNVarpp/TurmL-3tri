@@ -2,15 +2,15 @@ body {
      background-color:rgb(125, 169, 196);
 }
 
-#titulo {
-    color:rgb(35, 73, 154);
-    font-size: 50px;
-    text-align: center;
+    #titulo  {
+        color:rgb(35, 73, 154);
+        font-size: 70px;
+        text-align: center;
 
 }
   
 .texto {
     color:rgb(191, 255, 0);
-    font-size: 40px;
+    font-size: 60px;
     text-align: justify;
 }
