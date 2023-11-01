@@ -4,13 +4,13 @@ body {
 
     #titulo  {
         color:rgb(35, 73, 154);
-        font-size: 30px;
+        font-size: 50px;
         text-align: center;
 
 }
   
 .texto {
     color:rgb(191, 255, 0);
-    font-size: 35px;
+    font-size: 40px;
     text-align: justify;
 }
