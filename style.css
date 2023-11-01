@@ -3,14 +3,14 @@ body {
 }
 
     #titulo  {
-        color:rgb(35, 73, 154);
+        color:rgb(38, 120, 174);
         font-size: 50px;
         text-align: center;
 
 }
   
 .texto {
-    color:rgb(191, 255, 0);
+    color:rgb(246, 255, 0);
     font-size: 45px;
     text-align: justify;
 }
