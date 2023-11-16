@@ -20,6 +20,6 @@ body {
     width: 800px;
     padding: 5px;
     margin: 5px;
-    border: solid rgb(38, 120, 174);
+    border:10px solid rgb(38, 120, 174);
     border-radius:25px ;
 }
