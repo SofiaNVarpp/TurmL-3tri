@@ -14,3 +14,11 @@ body {
     font-size: 45px;
     text-align: justify;
 }
+
+#imagem {
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    margin: 15px;
+    border: solid rgb(38, 120, 174)
+}
