@@ -1,7 +1,7 @@
 body {
-     background-image:linear-gradient(#cf0e0e, #c64420, rgb(246, 255, 68), #000000); 
+     background-image:linear-gradient(#af5151, #c64420a7, rgb(246, 255, 68), #000000); 
          #titulo  {
-        color:rgb(38, 120, 174);
+        color:rgba(38, 120, 174, 0.851);
         font-size: 45px;
         text-align: center;
 
@@ -18,6 +18,6 @@ body {
     width: 800px;
     padding: 5px;
     margin: 5px;
-    border:10px solid rgb(226, 36, 49));
+    border:10px solid rgb(36, 36, 226));
     border-radius:25px ;
 }
