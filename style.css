@@ -1,23 +1,26 @@
 body {
-     background-image:linear-gradient(#af5151, #c64420a7, rgb(246, 255, 68)); 
-}
-#titulo  {
-        color:rgba(38, 120, 174, 0.851);
-        font-size: 45px;
-        text-align: center;
+     background-image:linear-gradient(#E4E4F2, #8c90d8,); 
+     font-family: sans-serif;
+     width: 2500px;
 }
 
 header {
     padding: 20px;
-    color:#339446;
+    color:#333946;
     font-size: 30px;
     border-bottom: 5px solid yellow;
+    background: #D9CEC1;
+
 }
 
 .cabecalho{
     display: flex;
     justify-content: space-around;
 
+#titulo  {
+        color:rgba(38, 120, 174, 0.851);
+        font-size: 45px;
+        text-align: center;
 }
 
 .texto {
@@ -27,19 +30,48 @@ header {
 }
 
 #imagem {
-    height: 50px;
-    width: 100px;
+    height: 500px;
+    width: 300px;
     padding: 10px;
-    margin: 10px;
-    border:10px solid rgb(74, 68, 255);
+    margin: 3px;
+    border: 0.5em solid rgb(74, 68, 255);
     border-radius:25px ;
 }
 
-.fotos{
+.foto{
 height: 50px;
 width: 100px;
 padding: 5px;
 margin: 5px;
 border:5px solid rgb(74, 68, 255);
-border-radius:25px ;
+border-radius:24px ;
+}
+
+.fotos{
+    display: flex;
+    justify-content: space-around;
+}
+
+.conteudo {
+    background-color: #D9CEC1;
+
+}
+
+.listas {
+    font-size: 35px;
+    text-align: center;
+    color: #2C402F;
+}
+
+.lista1{
+    list-style-position: inside;
+}
+
+.lista3{
+    list-style: none;
+}
+
+.item-lista{
+    display: inline-block;
+    margin-left: 100px;
 }
