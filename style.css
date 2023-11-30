@@ -1,13 +1,21 @@
 body {
-     background-image:linear-gradient(#af5151, #c64420a7, rgb(246, 255, 68), #000000); 
-         #titulo  {
+     background-image:linear-gradient(#af5151, #c64420a7, rgb(246, 255, 68)); 
+}
+#titulo  {
         color:rgba(38, 120, 174, 0.851);
         font-size: 45px;
         text-align: center;
-*
 }
-  
-    .texto {
+
+header {
+    padding: 20px;
+    color:#339446;
+    font-size: 35px;
+    border-bottom: 5px solid #af5151;
+}
+    
+
+.texto {
     color:rgb(30, 16, 100);
     font-size: 35px;
     text-align: justify;
