@@ -30,10 +30,10 @@ header {
 }
 
 #imagem {
-    height: 300px;
-    width: 500px;
+    height: 500px;
+    width: 800px;
     padding: 10px;
-    margin: 3px;
+    margin: 5px;
     border: 0.5em solid rgb(74, 68, 255);
     border-radius:25px ;
 }
