@@ -13,7 +13,12 @@ header {
     font-size: 30px;
     border-bottom: 5px solid yellow;
 }
-    
+
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+
+}
 
 .texto {
     color:rgb(30, 16, 100);
